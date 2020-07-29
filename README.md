@@ -8,6 +8,10 @@ You can also refer to the following document regarding compiled bindings in Xama
 
 [https://devblogs.microsoft.com/xamarin/compiled-bindings-xamarin-forms/](https://devblogs.microsoft.com/xamarin/compiled-bindings-xamarin-forms/)
 
+You can also refer the following article 
+
+https://www.syncfusion.com/kb/11807/how-to-enable-compiled-binding-for-xamarin-forms-listview-sflistview
+
 **XAML**
 
 Define namespace of the ViewModel and set [BindingContext](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.bindableobject.bindingcontext#Xamarin_Forms_BindableObject_BindingContext) for the [ContentPage](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.contentpage).
